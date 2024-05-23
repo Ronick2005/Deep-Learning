@@ -1,0 +1,21 @@
+[submodule "basic-nn-model"]
+	path = basic-nn-model
+	url = https://github.com/Ronick2005/basic-nn-model.git
+[submodule "nn-classification"]
+	path = nn-classification
+	url = https://github.com/Ronick2005/nn-classification.git
+[submodule "mnist-classification"]
+	path = mnist-classification
+	url = https://github.com/Ronick2005/mnist-classification.git
+[submodule "malaria-cell-recognition"]
+	path = malaria-cell-recognition
+	url = https://github.com/Ronick2005/malaria-cell-recognition.git
+[submodule "rnn-stock-price-prediction"]
+	path = rnn-stock-price-prediction
+	url = https://github.com/Ronick2005/rnn-stock-price-prediction.git
+[submodule "convolutional-denoising-autoencoder"]
+	path = convolutional-denoising-autoencoder
+	url = https://github.com/Ronick2005/convolutional-denoising-autoencoder.git
+[submodule "named-entity-recognition"]
+	path = named-entity-recognition
+	url = https://github.com/Ronick2005/named-entity-recognition.git
